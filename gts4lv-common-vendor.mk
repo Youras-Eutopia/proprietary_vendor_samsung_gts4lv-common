@@ -7,7 +7,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/gts4lv-common/proprietary/system/bin/lpm:$(TARGET_COPY_OUT_SYSTEM)/bin/lpm \
-    vendor/samsung/gts4lv-common/proprietary/system_ext/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptX_encoder.so \
     vendor/samsung/gts4lv-common/proprietary/system/lib64/libmaet.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmaet.so \
     vendor/samsung/gts4lv-common/proprietary/system/lib64/libsxqk_skia.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsxqk_skia.so \
     vendor/samsung/gts4lv-common/proprietary/system/media/battery_error.spi:$(TARGET_COPY_OUT_SYSTEM)/media/battery_error.spi \
