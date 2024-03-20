@@ -44,7 +44,7 @@ android_app_import {
 	name: "HotwordEnrollmentOKGoogleEx2TL3210",
 	owner: "samsung",
 	apk: "proprietary/priv-app/HotwordEnrollmentOKGoogleEx2TL3210/HotwordEnrollmentOKGoogleEx2TL3210.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -55,7 +55,7 @@ android_app_import {
 	name: "HotwordEnrollmentXGoogleEx2TL3210",
 	owner: "samsung",
 	apk: "proprietary/priv-app/HotwordEnrollmentXGoogleEx2TL3210/HotwordEnrollmentXGoogleEx2TL3210.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
